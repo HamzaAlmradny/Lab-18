@@ -1,4 +1,20 @@
 
+//Documentation Section 
+
+/*
+File Name : Lab 18
+Author : Hamza Alsayed Almradny
+Version : V.1
+Purpose : Create Simple Calculator using switch case.
+Date : 21/7/2025
+*/
+
+
+
+
+
+
+
 #include <iostream>
 using namespace std;
 
